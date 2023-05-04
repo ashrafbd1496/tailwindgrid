@@ -1,0 +1,26 @@
+{
+  "name": "tailwinddashboard",
+  "version": "1.0.0",
+  "description": "Admin Dashboard design using tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashrafbd1496/TailwindDashboard.git"
+  },
+  "keywords": [],
+  "author": "Ashraf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashrafbd1496/TailwindDashboard/issues"
+  },
+  "homepage": "https://github.com/ashrafbd1496/TailwindDashboard#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.3"
+  }
+}
